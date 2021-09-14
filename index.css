@@ -1,0 +1,24 @@
+body{
+    background-color: #333323;
+    height:100%;
+
+}
+#container{
+    height: 100px;;
+    width: 550px;
+    background-color: #f5e4c3;
+    display:flex;
+    margin:0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #888169;
+}
+#output{
+    font-size: 30px;
+    text-align: center;
+}
+#date{
+    font-size: 40px;
+    text-align: center;
+}
